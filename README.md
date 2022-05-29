@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivaani24
 - 👀 I’m interested in web devlopment and creating UI designs for web and apps.
-- 🌱 I’m currently learning React and node JS.
+- 🌱 I’m currently learning React and node JS. Also, I am learning android. 
 - 💞️ I’m looking to collaborate with organization and to contribute to the projects.
 
 
